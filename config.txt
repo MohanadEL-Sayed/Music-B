@@ -1,6 +1,6 @@
 token=NTQ2MjUxNDkwNzgwNzc0NDAx.D0lf4g.Q1w6PJvcZroncPanYL4BRSZCO5w
 owner=423028113535008788 
 prefix=b
-game=Type Bhelp
+game=Type Bplay
 stayinchannel=true
 songinstatus=true
