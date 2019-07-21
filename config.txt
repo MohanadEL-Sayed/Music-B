@@ -1,4 +1,4 @@
-token=NTQ2MjUxNDkwNzgwNzc0NDAx.D0lf4g.Q1w6PJvcZroncPanYL4BRSZCO5w
+token=NTQ2MjUxNDkwNzgwNzc0NDAx.XTTXtw.C9xLhu0CN4Npmbo6jFQUGcl-PnE
 owner=423028113535008788 
 prefix=b
 game=Type Bplay
